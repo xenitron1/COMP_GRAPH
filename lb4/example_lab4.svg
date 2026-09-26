@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="260">
+  <!-- Первые три line используются как стороны треугольника -->
+  <line x1="60" y1="210" x2="280" y2="210" stroke="black" />
+  <line x1="280" y1="210" x2="180" y2="55" stroke="black" />
+  <line x1="180" y1="55" x2="60" y2="210" stroke="black" />
+</svg>
